@@ -1,10 +1,10 @@
 # Dribbbo
 <p align="center">
     <a href="art/launcher.png">
-        <img src="screenshots/design.png" width="360" height="360"/>
+        <img src="screenshots/design.png" width="200" height="200"/>
     </a>
 </p>
-<p align="center">An Android Client for Dribbble</p>
+<h3 align="center">An Android Client for Dribbble</h3>
 
 ## Features
 * Load shots in an infinite recyclerView
@@ -23,11 +23,18 @@
 * Butterknife - Data binding
 
 ## Screenshots
-<img width="20%" src="screenshots/login.jpeg" />
-<img width="20%" src="screenshots/web_login.jpeg" />
-<img width="20%" src="screenshots/shot_list.jpeg" />
-<img width="20%" src="screenshots/refresh.jpeg" />
-<img width="20%" src="screenshots/drawer.jpeg" />
-<img width="20%" src="screenshots/shot.jpeg" />
-<img width="20%" src="screenshots/comment.jpeg" />
-<img width="20%" src="screenshots/create_bucket.jpeg" />
+<table>
+	<table>
+  <tr>
+    <td><img width="25%" src="screenshots/login.jpeg" /></td>
+    <td><img width="25%" src="screenshots/web_login.jpeg" /></td>
+    <td><img width="25%" src="screenshots/shot_list.jpeg" /></td>
+    <td><img width="25%" src="screenshots/refresh.jpeg" /></td>
+  </tr>
+  <tr>
+    <td><img width="25%" src="screenshots/drawer.jpeg" /></td>
+    <td><img width="25%" src="screenshots/shot.jpeg" /></td>
+    <td><img width="25%" src="screenshots/comment.jpeg" /></td>
+    <td><img width="25%" src="screenshots/create_bucket.jpeg" /></td>
+  </tr>
+</table>
