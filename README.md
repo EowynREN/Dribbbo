@@ -26,7 +26,7 @@
 <table>
 	<table>
   <tr>
-    <td><img width="25%" src="screenshots/login.jpeg" /></td>
+    <td><img src="screenshots/login.jpeg" /></td>
     <td><img width="25%" src="screenshots/web_login.jpeg" /></td>
     <td><img width="25%" src="screenshots/shot_list.jpeg" /></td>
     <td><img width="25%" src="screenshots/refresh.jpeg" /></td>
