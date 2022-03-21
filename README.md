@@ -23,11 +23,11 @@
 * Butterknife - Data binding
 
 ## Screenshots
-
-| Login     | Web Login    | Shots     | Refresh     |    
-| :-------------: | :-------------: | :-------------: |
-| ![Login](screenshots/login.jpeg) | ![Web Login ](screenshots/web_login.jpeg) | ![Shots](screenshots/shot_list.jpeg) | ![Refresh](screenshots/refresh.jpeg) |
-
-| Shot detail     | Nav drawer     | Comment     | Create Bucket     | 
-| :-------------: | :-------------: | :-------------: |
-| ![Shot detail](screenshots/shot.jpeg) | ![Nav drawer](screenshots/drawer.jpeg) | ![Comment](screenshots/comment.jpeg) | ![Bucket](screenshots/create_bucket.jpeg) | 
+<img width="20%" src="screenshots/login.jpeg" />
+<img width="20%" src="screenshots/web_login.jpeg" />
+<img width="20%" src="screenshots/shot_list.jpeg" />
+<img width="20%" src="screenshots/refresh.jpeg" />
+<img width="20%" src="screenshots/drawer.jpeg" />
+<img width="20%" src="screenshots/shot.jpeg" />
+<img width="20%" src="screenshots/comment.jpeg" />
+<img width="20%" src="screenshots/create_bucket.jpeg" />
