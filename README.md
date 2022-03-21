@@ -27,14 +27,14 @@
 	<table>
   <tr>
     <td><img src="screenshots/login.jpeg" /></td>
-    <td><img width="25%" src="screenshots/web_login.jpeg" /></td>
-    <td><img width="25%" src="screenshots/shot_list.jpeg" /></td>
-    <td><img width="25%" src="screenshots/refresh.jpeg" /></td>
+    <td><img src="screenshots/web_login.jpeg" /></td>
+    <td><img src="screenshots/shot_list.jpeg" /></td>
+    <td><img src="screenshots/refresh.jpeg" /></td>
   </tr>
   <tr>
-    <td><img width="25%" src="screenshots/drawer.jpeg" /></td>
-    <td><img width="25%" src="screenshots/shot.jpeg" /></td>
-    <td><img width="25%" src="screenshots/comment.jpeg" /></td>
-    <td><img width="25%" src="screenshots/create_bucket.jpeg" /></td>
+    <td><img src="screenshots/drawer.jpeg" /></td>
+    <td><img src="screenshots/shot.jpeg" /></td>
+    <td><img src="screenshots/comment.jpeg" /></td>
+    <td><img src="screenshots/create_bucket.jpeg" /></td>
   </tr>
 </table>
