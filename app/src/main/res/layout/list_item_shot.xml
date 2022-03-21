@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@android:color/white">
+    
+        <ImageView
+            android:id="@+id/shot_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/list_shot_image_height"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/shot_image"
+            tools:src="@drawable/shot_placeholder"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/list_shot_detail_bar_height">
+
+            <TextView
+                android:id="@+id/shot_view_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/spacing_large"
+                android:layout_toLeftOf="@+id/shot_like_count"
+                android:layout_centerVertical="true"
+                android:drawableLeft="@drawable/ic_visibility_grey_18dp"
+                android:drawablePadding="@dimen/spacing_xsmall"
+                tools:text="33"/>
+
+            <TextView
+                android:id="@+id/shot_like_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/spacing_large"
+                android:layout_toLeftOf="@+id/shot_bucket_count"
+                android:layout_centerVertical="true"
+                android:drawableLeft="@drawable/ic_favorite_grey_18dp"
+                android:drawablePadding="@dimen/spacing_xsmall"
+                tools:text="102"/>
+
+            <TextView
+                android:id="@+id/shot_bucket_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/spacing_large"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:drawableLeft="@drawable/ic_shopping_basket_grey_18dp"
+                android:drawablePadding="@dimen/spacing_xsmall"
+                tools:text="78"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/shot_clickable_cover"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:background="?attr/selectableItemBackground"/>
+
+</androidx.cardview.widget.CardView>

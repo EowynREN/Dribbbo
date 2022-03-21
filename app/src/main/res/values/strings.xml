@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Dribbbo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_menu_home">Home</string>
+    <string name="drawer_menu_likes">Likes</string>
+    <string name="drawer_menu_buckets">Buckets</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+
+    <string name="login">Log in</string>
+    <string name="logout">Log out</string>
+    <string name="save">Save</string>
+    <string name="bucket">Bucket</string>
+    <string name="like">Like</string>
+    <string name="share">Share</string>
+
+    <string name="user_profile_picture">User profile picture</string>
+    <string name="share_shot">Share this amazing shot!</string>
+    <string name="choose_bucket">Choose bucket</string>
+    <string name="all_bucketed_shots">Bucketed Shot</string>
+
+    <string name="new_bucket_title">New bucket</string>
+    <string name="new_bucket_create">Create</string>
+    <string name="new_bucket_cancel">Cancel</string>
+    <string name="new_bucket_name">Bucket name</string>
+    <string name="new_bucket_description">Bucket description</string>
+
+    <string name="shot_count">{0,choice,0#0 shot|1#1 shot|1&lt;{0} shots}</string>
+
+    <!-- shot detail -->
+    <string name="shot_author_picture">Shot author picture</string>
+    <string name="shot_detail_loading_buckets">Loading buckets, just one second…</string>
+    <string name="shot_image">Shot image</string>
+
+    <string name="comment_author_picture">Comment author picture</string>
+    <string name="comment_author_name">Comment author\'s name</string>
+    <string name="comment_content">Comment Content</string>
+    <string name="comment_published_time">Publish time of comment</string>
+
+    <!--<string name="author_picture">author\'s picture</string>-->
+    <!--<string name="author_name">author\'s name</string>-->
+    <!--<string name="author_location">author\'s location</string>-->
+    <!--<string name="author_bio">author\'s bio</string>-->
+    <!--<string name="author_follow_btn">Follow</string>-->
+
+    <string name="activity_login_btn_text">Log into Dribbble</string>
+    <string name="activity_login_icon">Dribbble icon</string>
+
+    <string name="title_activity_auth">AuthActivity</string>
+    <string name="auth_activity_title">Log into Dribbble</string>
+
+</resources>
