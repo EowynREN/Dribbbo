@@ -12,7 +12,7 @@
 * See details of each shot
 * View comments for a shot (removed from Dribbble API v2)
 * Like/bucket a shot (removed from Dribbble API v2)
-* Like a comment removed from Dribbble API v2)
+* Like a comment (removed from Dribbble API v2)
 * Create a bucket (removed from Dribbble API v2)
 
 
